@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HerogonStudios
-- 👀 I’m interested in ... Storytelling and Game Design
-- 🌱 I’m currently learning ... Unreal Engine 4
-- 💞️ I’m looking to collaborate on ... A fighting game project using UE4
+- 👀 I’m interested in ... Storytelling and Game Development
+- 🌱 I’m currently learning ... Unreal Engine 5
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
